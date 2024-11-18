@@ -5,4 +5,6 @@
 
 public class Checker {
     // VALIDATES
+    public static final String PLAYER1_MARKER = 'X';
+    public static final String PLAYER2_MARKER = 'O';
 }
