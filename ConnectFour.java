@@ -1,8 +1,8 @@
 /**
  * Our Connect Four Game for the comprehensive project!
  * @author Ashika Kamjula, Sebastian Rivera, Emre Yilmazer, Layton Laurita
- * @since Wed, Nov 13 (12:30PM)
  */
+
 
 public class ConnectFour {
 
