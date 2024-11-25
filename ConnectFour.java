@@ -95,6 +95,6 @@ public class ConnectFour {
      * @return whether the move is valid or not
      */
     public static boolean validateMove(int column) {
-        return;
+        return false; // temporary
     }
 }
